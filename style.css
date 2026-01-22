@@ -85,7 +85,7 @@ p {
     align-items: center;
     text-align: center;
     color: #fff;
-    background-image: url("./img/welcome-bg.png");
+    background-image: url("../img/welcome-bg.png");
     background-size: cover;
     background-position: center;
     background-color: #676770;
